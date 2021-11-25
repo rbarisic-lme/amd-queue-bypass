@@ -3,8 +3,9 @@
 
 ### How-To
 
-1. Add a new Bookmark in your Browser and set this as the "URL" field.
-2. visit the AMD Direct Buy Site and press the bookmark button
+1. Copy the content of "set-as-bookmark.js" to your clipboard
+2. Add a new Bookmark in your Browser and set this as the "URL" field.
+3. visit the AMD Direct Buy Site and press the bookmark button
 
 ### Where it works
 
